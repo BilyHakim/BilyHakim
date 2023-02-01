@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hi there! I am an Informatics Engineering student with a passion for web development, data analysis, machine learning, and IT support. I am always seeking to expand my knowledge and skills in these areas and excited to be part of the tech community. On my Github profile, you will find projects that showcase my abilities and my dedication to constantly improve.
+Hi there! I am an Informatics Engineering student with a passion for web development, data analysis, machine learning, and IT support. I am constantly looking to broaden my knowledge and skills in these areas and I am thrilled to be part of the tech community. On my Github profile, you will find projects that are the result of my learning journey. These projects display my abilities and reflect my commitment to continuous improvement, showcasing the knowledge and skills I have acquired through my studies and experiences.
 
 ## 🌐 Socials:
 
